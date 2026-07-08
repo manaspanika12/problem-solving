@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 19,
+  "todayCount": 20,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -29,10 +29,11 @@
     "Codeforces_1807A_-_Plus_or_Minus": true,
     "Codeforces_1692A_-_Marathon": true,
     "Codeforces_1899A_-_Game_with_Integers": true,
-    "Codeforces_1676A_-_Lucky": true
+    "Codeforces_1676A_-_Lucky": true,
+    "Codeforces_1154A_-_Restoring_Three_Numbers": true
   },
   "activityHistory": {
-    "2026-07-09": 19
+    "2026-07-09": 20
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -53,6 +54,7 @@
     "1807A - Plus or Minus",
     "1692A - Marathon",
     "1899A - Game with Integers",
-    "1676A - Lucky"
+    "1676A - Lucky",
+    "1154A - Restoring Three Numbers"
   ]
 }

@@ -23,3 +23,4 @@
 | 21 | [581A - Vasya the Hipster](./Codeforces/basic/581A%20-%20Vasya%20the%20Hipster) | [Codeforces](https://codeforces.com/problemset/problem/581/A) | basic | 09 Jul 2026 | 01:11 am |
 | 22 | [1899A - Game with Integers](./Codeforces/basic/1899A%20-%20Game%20with%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/1899/A) | basic | 09 Jul 2026 | 01:11 am |
 | 23 | [1676A - Lucky](./Codeforces/basic/1676A%20-%20Lucky) | [Codeforces](https://codeforces.com/problemset/problem/1676/A) | basic | 09 Jul 2026 | 01:11 am |
+| 24 | [1154A - Restoring Three Numbers](./Codeforces/basic/1154A%20-%20Restoring%20Three%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1154/A) | basic | 09 Jul 2026 | 01:11 am |
