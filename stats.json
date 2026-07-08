@@ -1,14 +1,14 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 22,
+  "todayCount": 23,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -32,10 +32,11 @@
     "Codeforces_1676A_-_Lucky": true,
     "Codeforces_1154A_-_Restoring_Three_Numbers": true,
     "Codeforces_1669A_-_Division": true,
-    "Codeforces_732A_-_Buy_a_Shovel": true
+    "Codeforces_732A_-_Buy_a_Shovel": true,
+    "Codeforces_630A_-_Again_Twenty_Five": true
   },
   "activityHistory": {
-    "2026-07-09": 22
+    "2026-07-09": 23
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -59,6 +60,7 @@
     "1676A - Lucky",
     "1154A - Restoring Three Numbers",
     "1669A - Division",
-    "732A - Buy a Shovel"
+    "732A - Buy a Shovel",
+    "630A - Again Twenty Five"
   ]
 }
