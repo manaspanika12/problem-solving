@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
     "GeeksForGeeks_Number_of_factors": true,
-    "Codeforces_1974G_-_Money_Buys_Less_Happiness_Now": true
+    "Codeforces_1974G_-_Money_Buys_Less_Happiness_Now": true,
+    "Codeforces_2146D2_-_Max_Sum_OR_Hard_Version": true
   },
   "activityHistory": {
-    "2026-07-09": 3
+    "2026-07-09": 4
   },
   "todayProblems": [
     "Bulb Switcher",
     "Number of factors",
-    "1974G - Money Buys Less Happiness Now"
+    "1974G - Money Buys Less Happiness Now",
+    "2146D2 - Max Sum OR Hard Version"
   ]
 }
