@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -27,10 +27,11 @@
     "Codeforces_1409A_-_Yet_Another_Two_Integers_Problem": true,
     "Codeforces_1999A_-_AB_Again": true,
     "Codeforces_1807A_-_Plus_or_Minus": true,
-    "Codeforces_1692A_-_Marathon": true
+    "Codeforces_1692A_-_Marathon": true,
+    "Codeforces_581A_-_Vasya_the_Hipster": true
   },
   "activityHistory": {
-    "2026-07-09": 17
+    "2026-07-09": 18
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -49,6 +50,7 @@
     "1409A - Yet Another Two Integers Problem",
     "1999A - AB Again",
     "1807A - Plus or Minus",
-    "1692A - Marathon"
+    "1692A - Marathon",
+    "581A - Vasya the Hipster"
   ]
 }

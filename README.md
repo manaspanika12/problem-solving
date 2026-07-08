@@ -20,3 +20,4 @@
 | 18 | [1999A - AB Again](./Codeforces/basic/1999A%20-%20AB%20Again) | [Codeforces](https://codeforces.com/problemset/problem/1999/A) | basic | 09 Jul 2026 | 01:11 am |
 | 19 | [1807A - Plus or Minus](./Codeforces/basic/1807A%20-%20Plus%20or%20Minus) | [Codeforces](https://codeforces.com/problemset/problem/1807/A) | basic | 09 Jul 2026 | 01:11 am |
 | 20 | [1692A - Marathon](./Codeforces/basic/1692A%20-%20Marathon) | [Codeforces](https://codeforces.com/problemset/problem/1692/A) | basic | 09 Jul 2026 | 01:11 am |
+| 21 | [581A - Vasya the Hipster](./Codeforces/basic/581A%20-%20Vasya%20the%20Hipster) | [Codeforces](https://codeforces.com/problemset/problem/581/A) | basic | 09 Jul 2026 | 01:11 am |
