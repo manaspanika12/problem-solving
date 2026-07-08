@@ -30,3 +30,4 @@
 | 28 | [1583H - Omkar and Tours](./Codeforces/basic/1583H%20-%20Omkar%20and%20Tours) | [Codeforces](https://codeforces.com/problemset/problem/1583/H) | basic | 09 Jul 2026 | 01:12 am |
 | 29 | [1324F - Maximum White Subtree](./Codeforces/basic/1324F%20-%20Maximum%20White%20Subtree) | [Codeforces](https://codeforces.com/problemset/problem/1324/F) | basic | 09 Jul 2026 | 01:12 am |
 | 30 | [2242B - Predominant Frequency Division](./Codeforces/basic/2242B%20-%20Predominant%20Frequency%20Division) | [Codeforces](https://codeforces.com/problemset/problem/2242/B) | basic | 09 Jul 2026 | 01:12 am |
+| 31 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 09 Jul 2026 | 01:14 am |
