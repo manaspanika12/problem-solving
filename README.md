@@ -9,3 +9,4 @@
 | 7 | [2236B - Tatar TV Show](./Codeforces/basic/2236B%20-%20Tatar%20TV%20Show) | [Codeforces](https://codeforces.com/problemset/problem/2236/B) | basic | 09 Jul 2026 | 01:02 am |
 | 8 | [2237C - Duck Surplus](./Codeforces/basic/2237C%20-%20Duck%20Surplus) | [Codeforces](https://codeforces.com/problemset/problem/2237/C) | basic | 09 Jul 2026 | 01:02 am |
 | 9 | [1948B - Array Fix](./Codeforces/basic/1948B%20-%20Array%20Fix) | [Codeforces](https://codeforces.com/problemset/problem/1948/B) | basic | 09 Jul 2026 | 01:02 am |
+| 10 | [1915A - Odd One Out](./Codeforces/basic/1915A%20-%20Odd%20One%20Out) | [Codeforces](https://codeforces.com/problemset/problem/1915/A) | basic | 09 Jul 2026 | 01:10 am |
