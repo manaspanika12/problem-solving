@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -20,10 +20,11 @@
     "Codeforces_1948B_-_Array_Fix": true,
     "Codeforces_1915A_-_Odd_One_Out": true,
     "Codeforces_1760A_-_Medium_Number": true,
-    "Codeforces_1512A_-_Spy_Detected": true
+    "Codeforces_1512A_-_Spy_Detected": true,
+    "Codeforces_32B_-_Borze": true
   },
   "activityHistory": {
-    "2026-07-09": 10
+    "2026-07-09": 11
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -35,6 +36,7 @@
     "1948B - Array Fix",
     "1915A - Odd One Out",
     "1760A - Medium Number",
-    "1512A - Spy Detected"
+    "1512A - Spy Detected",
+    "32B - Borze"
   ]
 }
