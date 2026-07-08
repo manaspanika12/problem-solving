@@ -16,3 +16,4 @@
 | 14 | [1791A - Codeforces Checking](./Codeforces/basic/1791A%20-%20Codeforces%20Checking) | [Codeforces](https://codeforces.com/problemset/problem/1791/A) | basic | 09 Jul 2026 | 01:10 am |
 | 15 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 09 Jul 2026 | 01:10 am |
 | 16 | [1399A - Remove Smallest](./Codeforces/basic/1399A%20-%20Remove%20Smallest) | [Codeforces](https://codeforces.com/problemset/problem/1399/A) | basic | 09 Jul 2026 | 01:11 am |
+| 17 | [1409A - Yet Another Two Integers Problem](./Codeforces/basic/1409A%20-%20Yet%20Another%20Two%20Integers%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1409/A) | basic | 09 Jul 2026 | 01:11 am |
