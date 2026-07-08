@@ -7,3 +7,4 @@
 | 5 | [2241A - Divide and Conquer](./Codeforces/basic/2241A%20-%20Divide%20and%20Conquer) | [Codeforces](https://codeforces.com/problemset/problem/2241/A) | basic | 09 Jul 2026 | 01:01 am |
 | 6 | [141A - Amusing Joke](./Codeforces/basic/141A%20-%20Amusing%20Joke) | [Codeforces](https://codeforces.com/problemset/problem/141/A) | basic | 09 Jul 2026 | 01:01 am |
 | 7 | [2236B - Tatar TV Show](./Codeforces/basic/2236B%20-%20Tatar%20TV%20Show) | [Codeforces](https://codeforces.com/problemset/problem/2236/B) | basic | 09 Jul 2026 | 01:02 am |
+| 8 | [2237C - Duck Surplus](./Codeforces/basic/2237C%20-%20Duck%20Surplus) | [Codeforces](https://codeforces.com/problemset/problem/2237/C) | basic | 09 Jul 2026 | 01:02 am |

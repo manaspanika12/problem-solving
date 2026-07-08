@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -16,10 +16,11 @@
     "Codeforces_1974G_-_Money_Buys_Less_Happiness_Now": true,
     "Codeforces_2146D2_-_Max_Sum_OR_Hard_Version": true,
     "Codeforces_141A_-_Amusing_Joke": true,
-    "Codeforces_2236B_-_Tatar_TV_Show": true
+    "Codeforces_2236B_-_Tatar_TV_Show": true,
+    "Codeforces_2237C_-_Duck_Surplus": true
   },
   "activityHistory": {
-    "2026-07-09": 6
+    "2026-07-09": 7
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -27,6 +28,7 @@
     "1974G - Money Buys Less Happiness Now",
     "2146D2 - Max Sum OR Hard Version",
     "141A - Amusing Joke",
-    "2236B - Tatar TV Show"
+    "2236B - Tatar TV Show",
+    "2237C - Duck Surplus"
   ]
 }
