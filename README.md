@@ -25,3 +25,4 @@
 | 23 | [1676A - Lucky](./Codeforces/basic/1676A%20-%20Lucky) | [Codeforces](https://codeforces.com/problemset/problem/1676/A) | basic | 09 Jul 2026 | 01:11 am |
 | 24 | [1154A - Restoring Three Numbers](./Codeforces/basic/1154A%20-%20Restoring%20Three%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1154/A) | basic | 09 Jul 2026 | 01:11 am |
 | 25 | [1669A - Division](./Codeforces/basic/1669A%20-%20Division) | [Codeforces](https://codeforces.com/problemset/problem/1669/A) | basic | 09 Jul 2026 | 01:11 am |
+| 26 | [381A - Sereja and Dima](./Codeforces/basic/381A%20-%20Sereja%20and%20Dima) | [Codeforces](https://codeforces.com/problemset/problem/381/A) | basic | 09 Jul 2026 | 01:11 am |
