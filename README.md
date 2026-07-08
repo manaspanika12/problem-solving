@@ -28,3 +28,4 @@
 | 26 | [732A - Buy a Shovel](./Codeforces/basic/732A%20-%20Buy%20a%20Shovel) | [Codeforces](https://codeforces.com/problemset/problem/732/A) | basic | 09 Jul 2026 | 01:11 am |
 | 27 | [630A - Again Twenty Five](./Codeforces/basic/630A%20-%20Again%20Twenty%20Five) | [Codeforces](https://codeforces.com/problemset/problem/630/A) | basic | 09 Jul 2026 | 01:11 am |
 | 28 | [1583H - Omkar and Tours](./Codeforces/basic/1583H%20-%20Omkar%20and%20Tours) | [Codeforces](https://codeforces.com/problemset/problem/1583/H) | basic | 09 Jul 2026 | 01:12 am |
+| 29 | [2111D - Creating a Schedule](./Codeforces/basic/2111D%20-%20Creating%20a%20Schedule) | [Codeforces](https://codeforces.com/problemset/problem/2111/D) | basic | 09 Jul 2026 | 01:12 am |

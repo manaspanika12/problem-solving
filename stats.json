@@ -1,14 +1,14 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 24,
+  "todayCount": 25,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 22
+    "basic": 23
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -34,10 +34,11 @@
     "Codeforces_1669A_-_Division": true,
     "Codeforces_732A_-_Buy_a_Shovel": true,
     "Codeforces_630A_-_Again_Twenty_Five": true,
-    "Codeforces_1583H_-_Omkar_and_Tours": true
+    "Codeforces_1583H_-_Omkar_and_Tours": true,
+    "Codeforces_2111D_-_Creating_a_Schedule": true
   },
   "activityHistory": {
-    "2026-07-09": 24
+    "2026-07-09": 25
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -63,6 +64,7 @@
     "1669A - Division",
     "732A - Buy a Shovel",
     "630A - Again Twenty Five",
-    "1583H - Omkar and Tours"
+    "1583H - Omkar and Tours",
+    "2111D - Creating a Schedule"
   ]
 }
