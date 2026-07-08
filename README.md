@@ -15,3 +15,4 @@
 | 13 | [32B - Borze](./Codeforces/basic/32B%20-%20Borze) | [Codeforces](https://codeforces.com/problemset/problem/32/B) | basic | 09 Jul 2026 | 01:10 am |
 | 14 | [1791A - Codeforces Checking](./Codeforces/basic/1791A%20-%20Codeforces%20Checking) | [Codeforces](https://codeforces.com/problemset/problem/1791/A) | basic | 09 Jul 2026 | 01:10 am |
 | 15 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 09 Jul 2026 | 01:10 am |
+| 16 | [1399A - Remove Smallest](./Codeforces/basic/1399A%20-%20Remove%20Smallest) | [Codeforces](https://codeforces.com/problemset/problem/1399/A) | basic | 09 Jul 2026 | 01:11 am |
