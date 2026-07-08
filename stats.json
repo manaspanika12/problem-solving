@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "LeetCode_Bulb_Switcher": true,
@@ -19,10 +19,11 @@
     "Codeforces_2236B_-_Tatar_TV_Show": true,
     "Codeforces_1948B_-_Array_Fix": true,
     "Codeforces_1915A_-_Odd_One_Out": true,
-    "Codeforces_1760A_-_Medium_Number": true
+    "Codeforces_1760A_-_Medium_Number": true,
+    "Codeforces_1512A_-_Spy_Detected": true
   },
   "activityHistory": {
-    "2026-07-09": 9
+    "2026-07-09": 10
   },
   "todayProblems": [
     "Bulb Switcher",
@@ -33,6 +34,7 @@
     "2236B - Tatar TV Show",
     "1948B - Array Fix",
     "1915A - Odd One Out",
-    "1760A - Medium Number"
+    "1760A - Medium Number",
+    "1512A - Spy Detected"
   ]
 }

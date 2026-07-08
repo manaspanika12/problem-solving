@@ -11,3 +11,4 @@
 | 9 | [1948B - Array Fix](./Codeforces/basic/1948B%20-%20Array%20Fix) | [Codeforces](https://codeforces.com/problemset/problem/1948/B) | basic | 09 Jul 2026 | 01:02 am |
 | 10 | [1915A - Odd One Out](./Codeforces/basic/1915A%20-%20Odd%20One%20Out) | [Codeforces](https://codeforces.com/problemset/problem/1915/A) | basic | 09 Jul 2026 | 01:10 am |
 | 11 | [1760A - Medium Number](./Codeforces/basic/1760A%20-%20Medium%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1760/A) | basic | 09 Jul 2026 | 01:10 am |
+| 12 | [1512A - Spy Detected](./Codeforces/basic/1512A%20-%20Spy%20Detected) | [Codeforces](https://codeforces.com/problemset/problem/1512/A) | basic | 09 Jul 2026 | 01:10 am |
