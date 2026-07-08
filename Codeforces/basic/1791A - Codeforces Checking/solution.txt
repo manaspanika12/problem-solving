@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	int ar[26];
+	string s="codeforces";
+	for(char c:s){
+	    ar[c-'a']=1;
+	}
+    while(t--){
+        
+        char c;
+        cin>>c;
+        
+        if(ar[c-'a']==1){
+            cout<<"Yes";
+        }
+        else{
+            cout<<"No";
+        }
+        cout<<endl;
+    
+    }
+}
