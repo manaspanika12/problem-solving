@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+int charToInt(char c) {
+    return c - '0';
+}
+int main() {
+	
+	int t;
+	cin>>t;
+	
+	while(t--){
+	    
+	    int i;
+	    cin>>i;
+	    if(i%3==0){
+	        cout<<"Second";
+	    }
+	    else{
+	        cout<<"First";
+	    }
+	    cout<<"\n";
+	}
+	
+    return 0;
+    
+}
