@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-09",
-  "todayCount": 27,
+  "totalSolved": 28,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-10",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 24
   },
@@ -37,38 +37,14 @@
     "Codeforces_1583H_-_Omkar_and_Tours": true,
     "Codeforces_1324F_-_Maximum_White_Subtree": true,
     "Codeforces_2242B_-_Predominant_Frequency_Division": true,
-    "LeetCode_Symmetric_Tree": true
+    "LeetCode_Symmetric_Tree": true,
+    "LeetCode_Rotate_Array": true
   },
   "activityHistory": {
-    "2026-07-09": 27
+    "2026-07-09": 27,
+    "2026-07-10": 1
   },
   "todayProblems": [
-    "Bulb Switcher",
-    "Number of factors",
-    "1974G - Money Buys Less Happiness Now",
-    "2146D2 - Max Sum OR Hard Version",
-    "141A - Amusing Joke",
-    "2236B - Tatar TV Show",
-    "1948B - Array Fix",
-    "1915A - Odd One Out",
-    "1760A - Medium Number",
-    "1512A - Spy Detected",
-    "32B - Borze",
-    "4A - Watermelon",
-    "1399A - Remove Smallest",
-    "1409A - Yet Another Two Integers Problem",
-    "1999A - AB Again",
-    "1807A - Plus or Minus",
-    "1692A - Marathon",
-    "1899A - Game with Integers",
-    "1676A - Lucky",
-    "1154A - Restoring Three Numbers",
-    "1669A - Division",
-    "732A - Buy a Shovel",
-    "630A - Again Twenty Five",
-    "1583H - Omkar and Tours",
-    "1324F - Maximum White Subtree",
-    "2242B - Predominant Frequency Division",
-    "Symmetric Tree"
+    "Rotate Array"
   ]
 }
