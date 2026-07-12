@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-07-11",
+  "totalSolved": 30,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-07-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 3,
     "hard": 0,
     "basic": 24
@@ -39,14 +39,16 @@
     "Codeforces_2242B_-_Predominant_Frequency_Division": true,
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Rotate_Array": true,
-    "GeeksForGeeks_Array_Leaders": true
+    "GeeksForGeeks_Array_Leaders": true,
+    "LeetCode_Largest_Positive_Integer_That_Exists_With_Its_Negative": true
   },
   "activityHistory": {
     "2026-07-09": 27,
     "2026-07-10": 1,
-    "2026-07-11": 1
+    "2026-07-11": 1,
+    "2026-07-12": 1
   },
   "todayProblems": [
-    "Array Leaders"
+    "Largest Positive Integer That Exists With Its Negative"
   ]
 }

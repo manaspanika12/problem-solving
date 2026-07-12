@@ -33,3 +33,4 @@
 | 31 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 09 Jul 2026 | 01:14 am |
 | 32 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 10 Jul 2026 | 09:05 pm |
 | 33 | [Array Leaders](./GeeksForGeeks/Medium/Array%20Leaders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | Medium | 11 Jul 2026 | 09:05 pm |
+| 34 | [Largest Positive Integer That Exists With Its Negative](./LeetCode/Easy/Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative) | [LeetCode](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | 12 Jul 2026 | 11:05 pm |
